@@ -28,7 +28,7 @@ ___
 
 ## 🎥 Demo
 
-[E1.gif Settings](Images/E1.gif)
+![E1.gif Settings](Images/E1.gif)
 Demonstration killing Notepad++ process
 
 ___
@@ -64,10 +64,10 @@ ___
 
 ## 🚀 Advanced Features
 
-· Automatic Admin Rights - Script automatically requests administrator privileges when needed
-· Process Validation - Skips protected system windows (Desktop, Taskbar, Rainmeter)
-· Dual Kill Methods - Uses both WinClose and taskkill for maximum effectiveness
-· Portable Settings - Configuration saved to HotkeySettings.ini in script directory
+- Automatic Admin Rights - Script automatically requests administrator privileges when needed
+- Process Validation - Skips protected system windows (Desktop, Taskbar, Rainmeter)
+- Dual Kill Methods - Uses both WinClose and taskkill for maximum effectiveness
+- Portable Settings - Configuration saved to HotkeySettings.ini in script directory
 
 ___
 

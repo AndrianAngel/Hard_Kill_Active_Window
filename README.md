@@ -120,16 +120,15 @@ ___
 
 If you find this tool useful, please consider:
 
-· Giving it a star ⭐ on GitHub
-· Sharing it with others who might need it
-· Reporting bugs or suggesting features
+- Giving it a star ⭐ on GitHub
+- Sharing it with others who might need it
+- Reporting bugs or suggesting features
 
 ___
 
 ## 🙏 Acknowledgments
 
-· AutoHotkey community for the excellent documentation and examples
-· Contributors who helped test and improve the script
+- Thanks AutoHotkey community for the excellent documentation and examples
 
 ---
 

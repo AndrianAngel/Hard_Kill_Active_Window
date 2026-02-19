@@ -2,9 +2,6 @@
 
 ## 🎯 Hard Kill Active Window
 
-https://img.shields.io/badge/AutoHotkey-v1.1+-green.svg
-https://img.shields.io/badge/License-CC%20BY--NC--ND%204.0-lightgrey.svg
-
 A lightweight AutoHotkey utility that provides keyboard shortcuts to forcefully terminate unresponsive or problematic windows. Perfect for when Task Manager is too slow or applications freeze completely.
 
 ___
@@ -17,15 +14,15 @@ ___
 
 ## ✨ Features
 
-· ⚡ Instant Process Termination - Kill frozen applications with a single keystroke
-· 🎮 Two Kill Modes:
-  · Hard Kill (Default: F3) - Shows confirmation dialog before terminating
-  · Silent Kill (Default: F4) - Kills immediately with optional tray notification
-· 🔧 Fully Customizable Hotkeys - Support for modifier keys (Ctrl, Alt, Shift, Win)
-· 🌙 Dark Mode GUI - Easy-on-the-eyes settings interface
-· 💾 Persistent Settings - Your preferences are saved to an INI file
-· 🛡️ Safety Features - Cannot kill critical system windows (Desktop, Taskbar, Rainmeter)
-· 🔔 Optional Notifications - Toggle tray notifications on/off
+- ⚡ Instant Process Termination - Kill frozen applications with a single keystroke
+- 🎮 Two Kill Modes:
+  - Hard Kill (Default: F3) - Shows confirmation dialog before terminating
+  - Silent Kill (Default: F4) - Kills immediately with optional tray notification
+- 🔧 Fully Customizable Hotkeys - Support for modifier keys (Ctrl, Alt, Shift, Win)
+- 🌙 Dark Mode GUI - Easy-on-the-eyes settings interface
+- 💾 Persistent Settings - Your preferences are saved to an INI file
+- 🛡️ Safety Features - Cannot kill critical system windows (Desktop, Taskbar, Rainmeter)
+- 🔔 Optional Notifications - Toggle tray notifications on/off
 
 ___
 
@@ -48,20 +45,20 @@ ___
 
 ## 🎯 Usage
 
-Action Default Hotkey Description
-Hard Kill F3 Shows confirmation dialog before killing
-Silent Kill F4 Kills immediately with optional notification
-Open Settings Ctrl+G Opens the configuration window
+- Action Default Hotkey Description
+- Hard Kill F3 Shows confirmation dialog before killing
+- Silent Kill F4 Kills immediately with optional notification
+- Open Settings Ctrl+G Opens the configuration window
 
 ___
 
 ## ⚙️ Custom Hotkey Syntax
 
-Modifier Symbol Example Result
-Windows Key # #r Win+R
-Control ^ ^+t Ctrl+Shift+T
-Shift + +F5 Shift+F5
-Alt ! !F4 Alt+F4
+- Modifier Symbol Example Result
+- Windows Key # #r Win+R
+- Control ^ ^+t Ctrl+Shift+T
+- Shift + +F5 Shift+F5
+- Alt ! !F4 Alt+F4
 
 ___
 
